@@ -1,0 +1,6 @@
+pandas
+streamlit
+bokeh==2.4.3
+yfinance
+matlpotlib
+datetime
